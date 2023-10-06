@@ -101,7 +101,7 @@ func _physics_process(delta):
 					else:
 						get_slide_collision(i).collider.dead()
 				#if("TileMap") in get_slide_collision(i).collider.name:
-					#dead()
+					#dead() 
 	
 
 
